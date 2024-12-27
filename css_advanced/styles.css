@@ -1,0 +1,31 @@
+nav{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    padding-left: 25px;
+}
+
+a{
+    display: inline-block;
+    padding: 20px;
+    color: #fefefe;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;  
+}
+
+body {
+    font-family: "Inter", serif;
+    background-image: url('Object.png');
+    background-repeat: no-repeat;
+  }
+
+  h1{
+    font-size: 100px;
+    font-weight: bolder;
+    color: #fefefe;
+    
+  }
