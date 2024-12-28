@@ -1,11 +1,11 @@
 nav{
-    padding: 10px;
+    padding: 20px;
     display: flex;
     align-items: center;
 }
 
 .logo {
-    padding-left: 25px;
+    padding-left: 70px;
 }
 
 a{
@@ -18,14 +18,262 @@ a{
 }
 
 body {
-    font-family: "Inter", serif;
+    font-family: "Inter", sans-serif;
     background-image: url('Object.png');
     background-repeat: no-repeat;
   }
 
   h1{
-    font-size: 100px;
-    font-weight: bolder;
-    color: #fefefe;
-    
+    font-size: 105px;
+    font-weight: bold;
+    color: #ffffff;
+    margin-top: 150px;
+    text-align: center;
+    padding-left: 50px;
   }
+
+  .s1{
+    text-align: center;
+}
+
+.d1 {
+  text-align: center;
+  padding: 20px;
+  color: #feffff;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+button{
+  color: #fefefe;
+  background-color: #c370ff;
+  border: 1px;
+  padding: 15px 20px;
+  border-radius: 40px;
+  align-items: center;  
+  stroke-opacity: inherit;
+}
+
+h2{
+  text-align: center;
+  color: #feffff;
+  font-size: 30px;
+  padding-top: 160px;
+}
+
+h2 p {
+  display: inline-block;
+  color: #c171f5;
+  font-weight: bold;
+}
+
+/* Portraits section */ 
+.portraits {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+h3{
+  color: #faffff;
+}
+
+.portraits p {
+  color: #f3fdff;
+  font-style: italic;
+  font-size: 13px;
+  padding: 5px;
+}
+
+.portraits h3 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.round {
+  border-radius: 80px;
+}
+
+.p1 {
+  padding-left: 180px;
+}
+.p4 {
+  padding-right: 180px;
+}
+
+/* Quoteblock section */
+.s2 {
+  display: flex;
+  background-color: #c271fe;
+  height: 280px;
+  padding-top: 100px;
+}
+
+.pho5 {
+  padding-left: 200px;
+}
+
+.quote {
+  color: #feffff;
+  padding-left: 50px;
+}
+
+.quote blockquote {
+font-size: 20px;
+padding: 10px;
+}
+
+.quote h3 {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.weather {
+  font-style: italic;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+/* Tutorials section */
+.sh2 h2 {
+  color: #4a525e;
+  padding-top: 90px;
+}
+
+.s3 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 80px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+
+.s3 h3 {
+  color: #0d1720;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.Phillip {
+  display: flex;
+  padding: 10px;
+  display: inline-flex;
+  padding-left: 10px;
+}
+
+.Phillip h4 {
+  color: #c56dff;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-size: 14px;
+}
+
+.time {
+  display: flex;
+  color: #c36fff;
+  padding-left: 10px;
+}
+
+.time p {
+  padding-left: 80px;
+  font-size: 15px;
+}
+
+.spar {
+  color: #828b92;
+  padding-inline: 20px;
+  font-size: 12px;
+  padding: 10px;
+}
+
+/* Free Membership section */
+.sh4 {
+  background-color: #071629;
+  text-align: center;
+}
+.sh4 h2 {
+color: #be6cfc;
+padding-top: 100px;
+}
+
+.sh4 h2 p {
+  color: #fffffe;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.s4 {
+  display: flex;
+  background-color: #071629;
+  align-content: center;
+  padding: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+
+.s4 h3 {
+  color: #feffff;
+  padding: 20px;
+}
+
+.s4 p{
+  color: #fefeff;
+  padding: 20px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+/* FAQ section */
+.s5 h2{
+color: #0d1624;
+font-size: 60px;
+padding-top: 20px;
+font-weight: 200;
+}
+
+.s5 h3{
+  color: #000000;
+}
+
+.header{
+  text-align: center;
+}
+.q1{
+  display: flex;
+  color: #858793;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding: 70px;
+}
+
+.q2{
+  display: flex;
+  color: #858793;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding: 70px7
+}
+
+/* Footer section */
+
+.s6{
+  background-color: #071629;
+  height: 250px;
+  width: auto;
+}
+
+.logbt{
+  padding-left: 150px;
+  padding-top: 100px;
+}
+
+.s6 p{
+  color: #5e6a77;
+  text-align: center;
+  padding-bottom: 0px;
+  font-size: 12px;
+}
