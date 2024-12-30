@@ -7,8 +7,8 @@ it provides scholarships
 for young adults who are willing to pursue education
 The site presents a number of information you need in video shared by professionals
 
-<img src="9.png" alt="Diagonal Smile">
-![Diagonal Smile](9.png);
+<img src="imgs/9.png" alt="Diagonal Smile">
+![Diagonal Smile](imgs/9.png);
 
 
 Technologies Used:
@@ -16,8 +16,8 @@ Technologies Used:
 Frontend:
 frontend technologies: HTML, CSS, JavaScript, React, Angular, Vue.js, etc.
 
-<img src="7.png" alt="Happy Smile">
-![Happy Smile](7.png);
+<img src="imgs/7.png" alt="Happy Smile">
+![Happy Smile](imgs/7.png);
 
 Backend:
 backend technologies: Node.js, Python (with frameworks like Django or Flask), Ruby on Rails, PHP, etc.
