@@ -237,25 +237,23 @@ font-weight: 200;
 
 .s5 h3{
   color: #000000;
+  text-align: left;
+  padding: 20px;
+  font-weight: bold;
 }
 
-.header{
-  text-align: center;
-}
 .q1{
   display: flex;
   color: #858793;
   padding-left: 150px;
   padding-right: 150px;
-  padding: 70px;
+  padding: 100px;
 }
 
-.q2{
-  display: flex;
-  color: #858793;
-  padding-left: 150px;
-  padding-right: 150px;
-  padding: 70px7
+.lastd1{
+  padding: 20px;
+  width: auto;
+  height: fit-content;
 }
 
 /* Footer section */
@@ -264,16 +262,30 @@ font-weight: 200;
   background-color: #071629;
   height: 250px;
   width: auto;
+  align-items: center;
 }
 
 .logbt{
-  padding-left: 150px;
-  padding-top: 100px;
+  padding-left: 200px;
+  padding-top: 20px;
 }
 
 .s6 p{
   color: #5e6a77;
-  text-align: center;
-  padding-bottom: 0px;
   font-size: 12px;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.x{
+  background-color: #fffffe;
+  border-radius: 13px;
+}
+.inst{
+  border-radius: 13px;
+}
+
+.last{
+  direction: rtl;
+  padding-right: 200px;
 }
