@@ -1,0 +1,10 @@
+.s2{
+    padding-top: 150px;
+    display: inline-block;
+    align-items: center;
+}
+
+.s2 div{
+    display: flex;
+    padding: 20px;
+}
