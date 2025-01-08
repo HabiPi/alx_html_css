@@ -1,3 +1,5 @@
+
+
 .s2{
     padding-top: 150px;
     display: inline-block;
@@ -7,4 +9,5 @@
 .s2 div{
     display: flex;
     padding: 20px;
+    color: rgb(255, 255, 255);
 }

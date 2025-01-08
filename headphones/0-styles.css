@@ -2,13 +2,6 @@ nav{
     display: flex;
 }
 
-nav h1{
-    display: inline;
-    color: #fbfdf9;
-    font-family: inherit, sans-serif;
-    font-weight: bolder;
-}
-
 a{
     text-decoration: none;
     color: #feffff;
