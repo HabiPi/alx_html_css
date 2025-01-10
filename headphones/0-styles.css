@@ -2,7 +2,12 @@ nav{
     display: flex;
 }
 
-a{
+.logo{
+    padding-left: 150px;
+    padding-top: 30px;
+}
+
+nav a{
     text-decoration: none;
     color: #feffff;
 }
@@ -12,11 +17,35 @@ body{
 }
 
 .s1{
-    padding-top: 250px;
-    align-items: center;
+    padding: 10px;
+    padding-top: 290px;
+    text-align: center;
 }
 .s1 h2{
-font-size: 30px;
+font-size: 34px;
 font-weight: bold;
 color: #feffff;
+}
+
+.s1 h4{
+    color: #feffff;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.s1 button{
+    padding: 15px;
+    background-color: #ff6565;
+    background-size: 60px;
+    border-radius: 50px;
+    color: #feffff;
+    font-weight: bolder;
+    padding-inline: 20px;
+}
+
+.s1 p{
+    color: #feffff;
+    padding-top: 120px;
+    font-size: 16px;
+    font-size: medium;
 }

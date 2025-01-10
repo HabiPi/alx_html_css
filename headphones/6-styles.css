@@ -1,0 +1,61 @@
+.pent{
+    padding-top: 300px;
+    display: flex;
+}
+
+.pentagon1{
+    position: relative;
+    top: 40%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 210px;
+    height: 180px;
+    background-color: #ff6565;
+    transform-origin: 50% 50%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+
+.pentagon2{
+    position: relative;
+    top: 40%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 210px;
+    height: 180px;
+    background-color: #ff6565;
+    transform-origin: 50% 50%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.pentagon3{
+    position: relative;
+    top: 40%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 210px;
+    height: 180px;
+    background-color: #ff6565;
+    transform-origin: 50% 50%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.pentagon4{
+    position: relative;
+    top: 100%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 210px;
+    height: 180px;
+    background-color: #ff6565;
+    transform-origin: 50% 50%;
+    clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.pdiv4 h1{
+  font-size: 50px; 
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+  z-index: 2;
+ 
+}
+
+@media only screen and (min-width: 600px) {
+    
+}
